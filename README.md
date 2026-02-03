@@ -15,14 +15,7 @@ TOPSIS is a Multi-Criteria Decision Making (MCDM) method used to rank alternativ
 
 ---
 
-## Repository Structure
 
-topsis-102353017/
-│
-├── Part1_CLI/        # Command-line TOPSIS implementation
-├── part2package/     # Python package uploaded to PyPI
-├── topsis-web/       # Web-based TOPSIS application
-└── README.md
 
 ---
 
