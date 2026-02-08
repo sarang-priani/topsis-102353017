@@ -11,7 +11,7 @@ setup(
     author_email="sarang.priani@gmail.com",
     description="Command line implementation of TOPSIS method",
     long_description=long_description,
-    long_description_content_type="text/markdown",  # ✅ THIS LINE FIXES EVERYTHING
+    long_description_content_type="text/markdown",  
     packages=find_packages(),
     install_requires=["pandas", "numpy"],
     entry_points={
